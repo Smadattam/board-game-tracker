@@ -1,4 +1,3 @@
-import json
 from flask import Flask, jsonify
 from requests import get
 from xml.etree import ElementTree as et
